@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Documents/School/Year 3/Fall 2023/INFR 3395U Game Dev Workshop 5/Unreal/GDW5_Labs/GDW5_Lab/Content/FirstPerson/Blueprints/BP_Turret.uasset",
+				"D:/Documents/School/Year 3/Fall 2023/INFR 3395U Game Dev Workshop 5/Unreal/GDW5_Labs/GDW5_Lab/Content/FirstPerson/Blueprints/BP_TurretBullet.uasset",
+				"D:/Documents/School/Year 3/Fall 2023/INFR 3395U Game Dev Workshop 5/Unreal/GDW5_Labs/GDW5_Lab/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/DB/TNLSEZ101RM62R6TRPYV19.uasset"
+			]
+		}
+	]
+}
